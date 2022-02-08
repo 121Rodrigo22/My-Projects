@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 .corpo{
-    background-image: url('./imag/01.jpg');
+    background-image: url('01.jpg');
     width: 400px;
     height: 250px;
     background-size: cover;
@@ -10,15 +10,15 @@ body{
     margin: auto;
 }
 .instagram{
-list-style-image: url('./imag/instagram-logo-16.png');
+list-style-image: url('instagram-logo-16.png');
 margin-left: 30px;
 
 }
 .telegram{
-    list-style-image: url('./imag/Imagem-Telegram-Logo-PNG-Preto\ \(1\).png');
+    list-style-image: url('Imagem-Telegram-Logo-PNG-Preto\ \(1\).png');
     margin-left: 30px;
 }
 .facebook{
-    list-style-image: url("./imag/Ícone-logo-Facebook-PNG.png");
+    list-style-image: url("Ícone-logo-Facebook-PNG.png");
     margin-left: 30px;
 }
